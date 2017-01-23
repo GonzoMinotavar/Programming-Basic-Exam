@@ -1,0 +1,5 @@
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\ChristmasHat\bin\Debug\ChristmasHat.exe.config
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\ChristmasHat\bin\Debug\ChristmasHat.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\ChristmasHat\bin\Debug\ChristmasHat.pdb
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\ChristmasHat\obj\Debug\ChristmasHat.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\ChristmasHat\obj\Debug\ChristmasHat.pdb
