@@ -1,0 +1,6 @@
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\bin\Debug\Grades.exe.config
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\bin\Debug\Grades.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\bin\Debug\Grades.pdb
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\obj\Debug\Grades.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\Grades\obj\Debug\Grades.pdb

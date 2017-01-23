@@ -1,0 +1,5 @@
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FlowersShop\bin\Debug\FlowersShop.exe.config
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FlowersShop\bin\Debug\FlowersShop.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FlowersShop\bin\Debug\FlowersShop.pdb
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FlowersShop\obj\Debug\FlowersShop.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FlowersShop\obj\Debug\FlowersShop.pdb
