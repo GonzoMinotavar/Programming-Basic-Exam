@@ -1,0 +1,6 @@
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\bin\Debug\FirstProblem.exe.config
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\bin\Debug\FirstProblem.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\bin\Debug\FirstProblem.pdb
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\obj\Debug\FirstProblem.exe
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\obj\Debug\FirstProblem.pdb
+c:\users\gonzo\documents\visual studio 2015\Projects\MyFirstExam\FirstProblem\obj\Debug\FirstProblem.csprojResolveAssemblyReference.cache
